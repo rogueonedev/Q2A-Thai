@@ -4,12 +4,12 @@ This is Thai translation for Question2Answer 1.7.x
 
 ไฟล์แปล Question2Answer 1.7.x เป็นภาษาไทย
 
-### Description
+## Description
 
 Language file **"Thai"** for [Question2Answer](http://www.question2answer.org/)
 
 
-### Installation
+## Installation
 
 1. Download and extract the files to your `qa-lang` folder (e.g. `qa-lang/th`).
 2. In Q2A go to **Admin** > general and set up the language for **"th"** and save changes.
